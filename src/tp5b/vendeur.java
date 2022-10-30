@@ -4,7 +4,15 @@ public class vendeur extends salaire {
    private double vente;
    private double pourcentage;
    
-   double getvente() {
+
+
+
+
+public vendeur(int i, String string, int j, double d) {
+	// TODO Auto-generated constructor stub
+}
+
+double getvente() {
 	   return vente;
    }
    
